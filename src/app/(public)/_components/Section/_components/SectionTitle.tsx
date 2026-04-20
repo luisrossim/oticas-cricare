@@ -1,4 +1,4 @@
-import { inter, lora } from '@/styles/fonts';
+import { inter, lora } from '@/shared/styles/fonts';
 
 interface Props {
     title: string;

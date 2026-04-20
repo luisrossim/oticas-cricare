@@ -1,6 +1,6 @@
 'use client';
 
-import { lora } from '@/styles/fonts';
+import { lora } from '@/shared/styles/fonts';
 import { AnimatePresence, motion } from 'framer-motion';
 import { SlidersHorizontal, X } from 'lucide-react';
 import { useRouter, useSearchParams } from 'next/navigation';

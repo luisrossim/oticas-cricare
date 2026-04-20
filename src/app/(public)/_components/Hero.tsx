@@ -1,4 +1,4 @@
-import { lora } from '@/styles/fonts';
+import { lora } from '@/shared/styles/fonts';
 
 export function Hero() {
     return (
@@ -43,7 +43,7 @@ export function Hero() {
                         <span className={`${lora.className}`}>conforto</span> e{' '}
                         <span className={`${lora.className}`}>estilo</span>.
                     </h1>
-                    <span>ÓTICAS CRICARÉ</span>
+                    <span className="text-xs">ÓTICAS CRICARÉ</span>
                 </div>
             </div>
         </section>

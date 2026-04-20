@@ -5,6 +5,7 @@ export const enterprise = {
         white: '/assets/logos/logo-white.png',
         black: '/assets/logos/logo-black.png',
         icon: '/assets/logos/logo-icon-white.png',
+        green: '/assets/logos/logo-icon.png',
     },
     categories: [
         {

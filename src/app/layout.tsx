@@ -1,4 +1,4 @@
-import { inter } from '@/styles/fonts';
+import { inter } from '@/shared/styles/fonts';
 import type { Metadata } from 'next';
 import { ReactNode } from 'react';
 import './globals.css';

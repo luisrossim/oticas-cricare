@@ -1,7 +1,7 @@
 'use client';
 
 import { landingRoutes } from '@/app/(public)/_constants/routes';
-import { lora } from '@/styles/fonts';
+import { lora } from '@/shared/styles/fonts';
 import { AnimatePresence, motion } from 'framer-motion';
 import { Menu, X } from 'lucide-react';
 import Link from 'next/link';

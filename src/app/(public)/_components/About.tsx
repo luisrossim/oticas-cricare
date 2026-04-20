@@ -1,4 +1,4 @@
-import { lora } from '@/styles/fonts';
+import { lora } from '@/shared/styles/fonts';
 import Image from 'next/image';
 import { Section } from './Section';
 
